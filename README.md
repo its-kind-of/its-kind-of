@@ -1,6 +1,6 @@
 [![MasterHead](https://media0.giphy.com/headers/monstercat/LQnX59nHBsOV.gif)](https://its-kind-of.io)
 <h1 align="center">Hi 👋, I'm Nikhil Shendge</h1>
-<h3 align="center">A passionate Data Scientist/Data Analyst/Boostrap Developer from India</h3>
+<h3 align="center">A passionate Data Scientist/Data Analyst/Boostrap Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/BuReg1EyvWaac/200.gif">
 
 
